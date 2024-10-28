@@ -47,6 +47,7 @@ class Motorbike extends Vehicle{
   // TODO: The method should log the details of the Motorbike
   // TODO: The details should include the VIN, make, model, year, weight, top speed, color, and wheels
   override printDetails() {
+    super.printDetails();
     console.log(`${this.vin}`)
     console.log(`${this.make}`)
     console.log(`${this.model}`)
