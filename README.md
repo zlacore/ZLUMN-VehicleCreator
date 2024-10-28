@@ -13,6 +13,9 @@
 > [License](#License)
 > [Questions](#questions)
 
+## Outside Resources/Help used
+> Section of code to perform towing and wheelie actions assisted by Josh Garrett and Austin Slater.
+
 
 ## Installation Instructions
 
